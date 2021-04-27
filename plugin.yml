@@ -1,0 +1,6 @@
+main: com.dream.enchantfix.EnchantFix
+name: DreamEnchantFix
+version: 1.0
+author: Dargoh
+depend: [ProtocolLib]
+commands:
